@@ -2,6 +2,7 @@
 - Atul M
 - Shivansh SV
 - Kriti Thacker
+- Shwetabh Singh
 - Druva D
 - anonyumous
 
